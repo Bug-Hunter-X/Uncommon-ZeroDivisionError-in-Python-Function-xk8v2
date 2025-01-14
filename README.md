@@ -1,0 +1,1 @@
+This repository contains a Python example that highlights a potential ZeroDivisionError. The error doesn't always occur, but rather under a specific condition. This makes it an uncommon, yet important, type of error to understand.
